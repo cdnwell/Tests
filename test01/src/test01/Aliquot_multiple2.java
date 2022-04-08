@@ -19,7 +19,7 @@ public class Aliquot_multiple2 {
 		Scanner sc = new Scanner(System.in);
 		
 		//System.out.print("흑돼지의 수, 돌하르방이 고른 자연수(스페이스를 사이에 두고 두 수를 입력합니다.):");
-		System.out.println("입력하겠습니다.");
+		//System.out.println("입력하겠습니다.");
 		int n=sc.nextInt();
 		if(n>=1 && n<=1000000) {
 			v=new int[n];
