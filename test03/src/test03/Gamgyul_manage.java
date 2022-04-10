@@ -24,11 +24,11 @@ public class Gamgyul_manage {
 		b=Integer.parseInt(num[1]);
 		
 		if(a<-1000 || a>1000) {
-			System.out.println("a값이 범위를 벗어났습니다. 프로그램을 종료합니다.");
+			System.out.println("a혹은 b의 값이 범위를 벗어났습니다. 프로그램을 종료합니다.");
 			System.exit(0);
 		}
 		if(b<-1000 || b>1000) {
-			System.out.println("b값이 범위를 벗어났습니다. 프로그램을 종료합니다.");
+			System.out.println("a혹은 b의 값이 범위를 벗어났습니다. 프로그램을 종료합니다.");
 			System.exit(0);
 		}
 		
@@ -52,11 +52,11 @@ public class Gamgyul_manage {
 		d=Integer.parseInt(num2[1]);
 		
 		if(c<-1000 || c>1000) {
-			System.out.println("c값이 범위를 벗어났습니다. 프로그램을 종료합니다.");
+			System.out.println("c 혹은 d의 값이 범위를 벗어났습니다. 프로그램을 종료합니다.");
 			System.exit(0);
 		}
 		if(d<-1000 || d>1000) {
-			System.out.println("d값이 범위를 벗어났습니다. 프로그램을 종료합니다.");
+			System.out.println("c 혹은 d의 값이 범위를 벗어났습니다. 프로그램을 종료합니다.");
 			System.exit(0);
 		}
 		
