@@ -47,7 +47,7 @@ public class test_study {
 		temp_str2[0]=Character.toString(sum_chr2[0]);
 		temp_str2[1]=Character.toString(sum_chr2[1]);
 	
-		String[] sum_str =new String[4] ;
+		String[] sum_str =new String[4];
 		int idx=0;
 		for(int j=0;j<2;j++) {
 			for(int k=0;k<2;k++) {
