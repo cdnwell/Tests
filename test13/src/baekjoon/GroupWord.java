@@ -3,7 +3,10 @@ package baekjoon;
 import java.util.Scanner;
 
 public class GroupWord {
-
+	/*
+	 * baekjoon - 1316¹ø ¹®Á¦
+	 * 
+	 */
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		String[] str=null;
@@ -21,8 +24,7 @@ public class GroupWord {
 		wordNo = groupWordCheck(str);
 		
 		System.out.println(wordNo);
-		
-		
+		 
 	}
 	
 	public static int groupWordCheck(String[] str) {
