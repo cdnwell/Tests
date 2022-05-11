@@ -1,7 +1,11 @@
 package baekjoon;
 
 import java.util.Scanner;
-
+	/*
+	 * baekjoon - 1018번 문제
+	 * 체스판 다시 칠하기
+	 * 
+	 */
 public class ChessColor {
 	public static boolean [][]arr=null;
 	public static int min = 64;
