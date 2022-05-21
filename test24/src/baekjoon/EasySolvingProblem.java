@@ -34,6 +34,8 @@ public class EasySolvingProblem {
 			j++;
 		}
 		
+		System.out.println(arr.size());
+		System.out.println(j);
 		int AStart = 0;
 		int BStart = 0;
 		
