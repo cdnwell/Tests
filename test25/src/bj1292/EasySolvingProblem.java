@@ -5,7 +5,11 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class EasySolvingProblem {
-
+	/*
+	 * baekjoon - 1292번 문제 
+	 * 쉽게 푸는 문제, 1, 2, 2, 3, 3, 3, 4, 4, 4, 4 ....
+	 * 
+	 */
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
