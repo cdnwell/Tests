@@ -2,7 +2,7 @@ package bj1978;
 
 import java.util.Scanner;
 
-public class PrimNumberOther {
+public class PrimeNumberOtherShort {
 
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
