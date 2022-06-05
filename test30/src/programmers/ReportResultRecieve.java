@@ -17,7 +17,6 @@ public class ReportResultRecieve {
 		//3.신고횟수에 따라 정지된 아이디 선별
 		
 		int end_count = report.length-1;
-		System.out.println(end_count);
 		for(int i =0;i<report.length-1;i++) {
 			if(report[i]==null) continue;
 			for(int j=i+1;j<report.length;j++) {
@@ -40,6 +39,7 @@ public class ReportResultRecieve {
 		//end_count는 배열의 갯수가 아니라 인덱스 끝값이다.
 		
 		String [] report_cp = Arrays.copyOf(report, end_count+1);
+		
 		
 		for(int i =0 ; i<report_cp.length;i++) {
 			String[] str_split = report_cp[i].split(" ");
