@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class QueTest {
+public class QueueTest {
 	/*
 	 * 백준 1021번 문제
 	 * 
