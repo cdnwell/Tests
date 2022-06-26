@@ -10,7 +10,7 @@ public class StreamTest {
 
 	public static void main(String[] args) {
 		
-		 Node[] tab = new Node[5];s
+		 Node[] tab = new Node[5];
 		 ArrayList<String> list = new ArrayList<>();
  		 Iterator <String> it = list.iterator();
 	}
