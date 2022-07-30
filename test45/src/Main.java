@@ -1,15 +1,14 @@
-package baekjoon;
-
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class LiePerson {
+public class Main {
 	/*
 	 * baekjoon - 1043번
 	 * 거짓말 할 수 있는 파티
+	 * 답안 제출용
 	 */
 	public static void main(String[] args) {
 		int N; // 사람의 수 
