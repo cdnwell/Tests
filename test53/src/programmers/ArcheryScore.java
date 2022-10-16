@@ -53,6 +53,6 @@ public class ArcheryScore {
         int n = 5;
 
         dfs(info,1,n);
-
     }
+
 }
