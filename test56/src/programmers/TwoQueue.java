@@ -7,12 +7,12 @@ import java.util.Set;
 
 public class TwoQueue {
     public static void main(String[] args){
-        int[] queue1 = {3,2,7,2};
-        int[] queue2 = {4,6,5,1};
+//        int[] queue1 = {3,2,7,2};
+//        int[] queue2 = {4,6,5,1};
 //        int[] queue1 = {1, 2, 1, 2};
 //        int[] queue2 = {1, 10, 1, 2};
-//        int[] queue1 = {1, 1};
-//        int[] queue2 = {1, 5};
+        int[] queue1 = {1, 1};
+        int[] queue2 = {1, 5};
         int min = 300001;
         int answer = 30001;
 
@@ -106,17 +106,28 @@ public class TwoQueue {
 
         for(String key : result){
             int length = Integer.parseInt(key.split(" ")[0])+1;
-            int head = Integer.parseInt(key.split(" ")[1])+1;
             int half = list1.size()/2;
+            int head = Integer.parseInt(key.split(" ")[1])+1;
+            head = head > half ? head : head + half;
 //            System.out.println("i : "+i);
 //            System.out.println("j : "+j);
 
             int head1 = half-length+1;
             int cal1 = (head-head1)*2 + (half-length);
+            System.out.println("cal1 : " + cal1);
 
             //두 번 째 비교
             head = head - half;
-            int cal2 = half-length + Math.abs(head-half) * 2;
+//            int cal2 = half-length + Math.abs(head-half) * 2;
+            int cal2 = 300001;
+            if(head >= head1){
+                if(head1 == 1){
+                    cal2 = (head-head1)*2;
+                }else{
+                    cal2 = (head-head1)*2 + head1;
+                }
+                System.out.println("cal2 : " + cal2);
+            }
 
             int cal = Math.min(cal1,cal2);
             min = Math.min(cal,min);
