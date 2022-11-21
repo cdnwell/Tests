@@ -20,8 +20,6 @@ public class Main {
             arr[i] = br.readLine();
         }
 
-        //bubbleSort(arr);
-        // 정렬하기
         Arrays.sort(arr, new Comparator<String>() {
             @Override
             public int compare(String o1, String o2) {
