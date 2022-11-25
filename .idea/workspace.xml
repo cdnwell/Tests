@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25dab86d-a1ee-44ca-8258-b766f871fba8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/[Test].iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/[Test].iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test57/src/bj1181/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/test57/src/bj1181/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +31,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/cdnwe/OneDrive/바탕 화면/[Test]/test58",
+    "last_opened_file_path": "C:/Users/cdnwe/OneDrive/바탕 화면/[Test]/test59",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
