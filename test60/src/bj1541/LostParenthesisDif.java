@@ -4,8 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class Main {
-    public static void main(String[] args) throws IOException, NumberFormatException {
+public class LostParenthesisDif {
+    public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String content = br.readLine();
         String[] arr = content.split("[-]");
@@ -17,17 +17,9 @@ public class Main {
                 result += Integer.parseInt(s1);
             }
         } else {
-            String[] arr2 = arr[0].split("[+]");
-            if(arr2.length != 1){
-                for(String s1 : arr2){
-                    result += Integer.parseInt(s1);
-                }
-            } else {
-              result = Integer.parseInt(arr[0]);
-            }
-            for(int i =1;i<arr.length;i++){
-
-                String[] str = arr[i].split("[+]");
+            result = Integer.parseInt(arr[0])*2;
+            for(String s1 : arr){
+                String[] str = s1.split("[+]");
 
                 for(String s2 : str)
                     result -= Integer.parseInt(s2);
