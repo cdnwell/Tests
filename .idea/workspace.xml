@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25dab86d-a1ee-44ca-8258-b766f871fba8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/test64/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test64/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test64/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test64/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test64/out/production/test61/bj1003/FibonacciFunc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test64/out/production/test61/bj1003/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test64/src/bj1003/FibonacciFunc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test64/src/bj1003/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test64/test61.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
