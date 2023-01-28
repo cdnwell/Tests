@@ -4,7 +4,6 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class TwoQueueAdd {
-
     public static void main(String[] args){
         int [] queue1 = {3,2,7,2};
         int [] queue2 = {4,6,5,1};
