@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25dab86d-a1ee-44ca-8258-b766f871fba8" name="Changes" comment="" />
+    <list default="true" id="25dab86d-a1ee-44ca-8258-b766f871fba8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/test79/out/production/test79/BilliardsPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/test79/out/production/test79/BilliardsPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test79/out/production/test79/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/test79/out/production/test79/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test79/src/BilliardsPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/test79/src/BilliardsPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test79/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/test79/src/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
