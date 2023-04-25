@@ -5,15 +5,9 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Set;
 
-public class ConvertNumbers {
+public class Solution {
 
-    public static void main(String[] args) {
-        int x = 10, y = 40, n = 5;
-
-        System.out.println(solution(x,y,n));
-    }
-
-    public static int solution(int x, int y, int n) {
+    public int solution(int x, int y, int n) {
         Queue<Integer> queue = new LinkedList<>();
         Set<Integer> set = new HashSet<>();
         int count = 0;
