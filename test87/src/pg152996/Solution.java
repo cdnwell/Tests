@@ -1,17 +1,10 @@
 package pg152996;
 
 import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 
-public class Seesaw {
+public class Solution {
 
-    public static void main(String[] args) {
-        int[] weights = {100,180,360,100,270};
-        System.out.println(solution(weights));
-    }
-
-    public static long solution(int[] weights) {
+    public long solution(int[] weights) {
         long answer = 0;
 
         Arrays.sort(weights);
@@ -21,7 +14,7 @@ public class Seesaw {
         return answer;
     }
 
-    public static long setMate(int[] weights) {
+    public long setMate(int[] weights) {
         long answer = 0;
 
         int tmpCnt = 0;
@@ -35,9 +28,9 @@ public class Seesaw {
 
             for (int j = i+1; j < weights.length; j++) {
                 if(weights[i] == weights[j]
-                || weights[i] * 2 == weights[j] * 3 || weights[i] * 2 == weights[j] * 4
-                || weights[i] * 3 == weights[j] * 2 || weights[i] * 3 == weights[j] * 4
-                || weights[i] * 4 == weights[j] * 2 || weights[i] * 4 == weights[j] * 3
+                        || weights[i] * 2 == weights[j] * 3 || weights[i] * 2 == weights[j] * 4
+                        || weights[i] * 3 == weights[j] * 2 || weights[i] * 3 == weights[j] * 4
+                        || weights[i] * 4 == weights[j] * 2 || weights[i] * 4 == weights[j] * 3
                 ) {
                     tmpCnt++;
                 }
@@ -47,5 +40,4 @@ public class Seesaw {
 
         return answer;
     }
-
 }
