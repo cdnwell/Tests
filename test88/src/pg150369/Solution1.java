@@ -1,5 +1,8 @@
 package pg150369;
 
+import java.util.Collection;
+import java.util.Collections;
+
 public class Solution1 {
     public static long solution(int cap, int n, int[] deliveries, int[] pickups) {
         long answer = 0L;
@@ -14,6 +17,9 @@ public class Solution1 {
             if(delCount == 0 && pickCount == 0){
                 continue;
             }
+
+            Collections collections;
+            Collection<String> collection;
 
             // 방문횟수 둘 중 최대값을 선택하고, 이동거리 계산해서 누적
             int count = Math.max(delCount, pickCount);
