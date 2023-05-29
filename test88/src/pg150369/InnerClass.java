@@ -17,6 +17,7 @@ public class InnerClass {
         inner.s = 2;
         System.out.println(inner.a);
         System.out.println(inner.s);
+        System.out.println(inner.toString();
     }
 
 }
