@@ -48,6 +48,6 @@ public class ClassStudy {
         // getFields() : 클래스의 필드의 Class 객체를 배열로 반환한다.
         // getConstructors() : 클래스의 생성자의 Class 객체를 배열로 반환한다.
         // getMethods() : 클래스의 메소드의 Class 객체를 배열로 반환한다.
-        
+
     }
 }
