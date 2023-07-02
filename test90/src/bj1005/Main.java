@@ -57,24 +57,6 @@ public class Main {
             }
         }
 
-//        while(!q.isEmpty()) {
-//            int current = q.poll();
-//
-//            // list[current].size() 는 list의 current번 째가 (current는 시작지점) 시작지점일 경우
-//            // end로 가는 가짓수를 의미한다.
-//            for (int i = 0; i < list[current].size(); i++) {
-//                // 0번째 index 부터 쌓인 end로 가는 값을 next에 담는다.
-//                int next = list[current].get(i);
-//                // buildCost는 시작 점에서 종점까지 현재 값과 비교해 최대 값을 넣어준다.
-//                buildCost[next] = Math.max(buildCost[current] + building[next], buildCost[next]);
-//                // indegree = 시작지점 , 0이 될 경우 queue에 list[current]번째 값에
-//                // ** 해석 안되는 부분 ** //
-//                indegree[next]--;
-//                if(indegree[next] == 0) q.offer(next);
-//                // ** 해석 안되는 부분 ** //
-//            }
-//        }
-
         while (!q.isEmpty()) {
             int current = q.poll();
 
