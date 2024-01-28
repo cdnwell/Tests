@@ -1,0 +1,11 @@
+
+9
+java:S1643E"Use a StringBuilder instead.(´²¡€8Æ¯¶£Ò1
+7
+java:S1220""Move this file to a named package.8Ç¯¶£Ò1
+`
+java:S1659">Declare "y" and all following declarations on a separate line.(‰î§úÿÿÿÿ8–±¶£Ò1
+G	java:S106*"+Replace this use of System.out by a logger.(£áÇü8ø©¹£Ò1
+L	java:S106,"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ø©¹£Ò1
+t
+java:S3776["RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(öÒšşÿÿÿÿ8±¶£Ò1

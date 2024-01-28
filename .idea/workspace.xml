@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25dab86d-a1ee-44ca-8258-b766f871fba8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test97/src/bj1058/Friend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/[Test].iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/[Test].iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.idea/sonarlint/issuestore/4/a/4a0dcc3fcd4a952c5c7280875ad58e17a02ae598" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.idea/sonarlint/issuestore/a/3/a38d54c0fadbad1112f8b388037518d3474ee2d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.idea/sonarlint/securityhotspotstore/4/a/4a0dcc3fcd4a952c5c7280875ad58e17a02ae598" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.idea/sonarlint/securityhotspotstore/a/3/a38d54c0fadbad1112f8b388037518d3474ee2d3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/HttpServerPractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/src/HttpServerManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HttpServerPractice/src/RootHandler.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +76,9 @@
       <updated>1655548929628</updated>
       <workItem from="1703489585509" duration="48000" />
       <workItem from="1704496374606" duration="41000" />
+      <workItem from="1704582181889" duration="23000" />
+      <workItem from="1705105195471" duration="28000" />
+      <workItem from="1706401988647" duration="35000" />
     </task>
     <servers />
   </component>

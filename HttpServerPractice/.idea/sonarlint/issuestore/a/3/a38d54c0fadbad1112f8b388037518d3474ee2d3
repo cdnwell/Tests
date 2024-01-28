@@ -1,20 +1,0 @@
-
-g	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ø„‹ôÍ1
-7
-java:S1220""Move this file to a named package.8û„‹ôÍ1
-l
-java:S2259P"OA "NullPointerException" could be thrown; "httpServerManager" is nullable here.(°ÿµ‹8—…‹ôÍ1
-w	java:S116	"[Rename this field "DEFAULT_HOSTANME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°éÚ8—…‹ôÍ1
-x	java:S116
-"WRename this field "DEFAULT_PORT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡´á­ûÿÿÿÿ8—…‹ôÍ1
-{	java:S116"ZRename this field "DEFAULT_BACKLOG" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İ şÃûÿÿÿÿ8—…‹ôÍ1
->
-java:S1170	"!Make this final field static too.(°éÚ8—…‹ôÍ1
-C
-java:S1170
-"!Make this final field static too.(‡´á­ûÿÿÿÿ8˜…‹ôÍ1
-C
-java:S1170"!Make this final field static too.(İ şÃûÿÿÿÿ8˜…‹ôÍ1
-G	java:S106;"+Replace this use of System.out by a logger.(ğÖ8®…‹ôÍ1
-L	java:S106C"+Replace this use of System.out by a logger.(ÏÄÇşÿÿÿÿ8·…‹ôÍ1
-L	java:S106H"+Replace this use of System.out by a logger.(²â¿›ÿÿÿÿÿ8¹…‹ôÍ1
